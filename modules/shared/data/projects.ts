@@ -1,19 +1,19 @@
 import { StaticImageData } from "next/image";
 
-import BirthdayImg from "../../../public/birthday.jpg";
-import ToursImg from "../../../public/tours.jpg";
-import ReviewsImg from "../../../public/reviews.jpg";
-import AccordionImg from "../../../public/accordion.jpg";
-import MenusImg from "../../../public/menus.jpg";
-import ExperiencesImg from "../../../public/experiences.jpg";
-import SliderImg from "../../../public/slider.jpg";
-import LoremIpsumImg from "../../../public/loremipsum.jpg";
-import ColorsImg from "../../../public/colors.jpg";
-import GroceryImg from "../../../public/grocery.jpg";
-import SidebarImg from "../../../public/sidebar.jpg";
-import ModalImg from "../../../public/modal.jpg";
-import StripeImg from "../../../public/stripe.jpg";
-import CartImg from "../../../public/cart.jpg";
+import BirthdayImg from "../../../public/birthday.jpeg";
+import ToursImg from "../../../public/tours.jpeg";
+import ReviewsImg from "../../../public/reviews.jpeg";
+import AccordionImg from "../../../public/accordion.jpeg";
+import MenusImg from "../../../public/menus.jpeg";
+import ExperiencesImg from "../../../public/experiences.jpeg";
+import SliderImg from "../../../public/slider.jpeg";
+import LoremIpsumImg from "../../../public/loremipsum.jpeg";
+import ColorsImg from "../../../public/colors.jpeg";
+import GroceryImg from "../../../public/grocery.jpeg";
+import SidebarImg from "../../../public/sidebar.jpeg";
+import ModalImg from "../../../public/modal.jpeg";
+import StripeImg from "../../../public/stripe.jpeg";
+import CartImg from "../../../public/cart.jpeg";
 
 interface Project {
   title: string;
